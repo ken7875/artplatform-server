@@ -9,42 +9,42 @@ interface RankingData {
 export const rankingData: RankingData[] = [
     {
       id: 1,
-      img: 'art04.jpg',
+      img: 'art04',
       title: '散步遇到的女人',
       auth: 'Zeo Jiang',
       price: 300
     },
     {
       id: 2,
-      img: 'art05.jpg',
+      img: 'art05',
       title: '爆炸頭的母親',
       auth: 'Yui',
       price: 300
     },
     {
       id: 3,
-      img: 'art06.jpg',
+      img: 'art06',
       title: '夏天的時候',
       auth: 'Bug Lin',
       price: 300
     },
     {
       id: 4,
-      img: 'art07.jpg',
+      img: 'art07',
       title: '爆炸頭的母親',
       auth: 'Yui',
       price: 300
     },
     {
       id: 5,
-      img: 'art08.jpg',
+      img: 'art08',
       title: '爆炸頭的母親',
       auth: 'Yui',
       price: 300
     },
     {
       id: 6,
-      img: 'art09.jpg',
+      img: 'art09',
       title: '爆炸頭的母親',
       auth: 'Yui',
       price: 300
