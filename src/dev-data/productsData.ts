@@ -50,3 +50,43 @@ export const rankingData: RankingData[] = [
       price: 300
     }
 ]
+type newestData = Omit<RankingData, 'auth'>
+
+export const newestData: newestData[] = [
+  {
+    id: 1,
+    img: 'art04',
+    title: '散步遇到的女人',
+    price: 300
+  },
+  {
+    id: 2,
+    img: 'art05',
+    title: '爆炸頭的母親',
+    price: 300
+  },
+  {
+    id: 3,
+    img: 'art06',
+    title: '夏天的時候',
+    price: 300
+  },
+  {
+    id: 4,
+    img: 'art07',
+    title: '爆炸頭的母親',
+    price: 300
+  },
+  {
+    id: 5,
+    img: 'art08',
+    title: '爆炸頭的母親',
+    price: 300
+  },
+  {
+    id: 6,
+    img: 'art09',
+    title: '爆炸頭的母親',
+    price: 300
+  }
+]
