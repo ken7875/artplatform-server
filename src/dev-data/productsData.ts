@@ -96,14 +96,14 @@ export const newestData: NewestData[] = [
     description: '唯一想擁有的人，唯一不可以擁有的'
   },
   {
-    id: 6,
+    id: 7,
     img: 'art04',
     title: '我這樣有美嗎',
     price: 500,
     description: '唯一想擁有的人，唯一不可以擁有的'
   },
   {
-    id: 6,
+    id: 8,
     img: 'art27',
     title: '我真的受傷了',
     price: 700,
