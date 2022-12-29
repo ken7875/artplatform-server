@@ -76,21 +76,21 @@ export const newestData: NewestData[] = [
   },
   {
     id: 4,
-    img: 'art12',
+    img: 'art11',
     title: '沒有人愛我',
     price: 800,
     description: '唯一想擁有的人，唯一不可以擁有的'
   },
   {
     id: 5,
-    img: 'art13',
+    img: 'art12',
     title: '不哭不哭眼淚是珍珠',
     price: 900,
     description: '唯一想擁有的人，唯一不可以擁有的'
   },
   {
     id: 6,
-    img: 'art03',
+    img: 'art13',
     title: '十分鐘就到',
     price: 1200,
     description: '唯一想擁有的人，唯一不可以擁有的'
@@ -104,7 +104,7 @@ export const newestData: NewestData[] = [
   },
   {
     id: 8,
-    img: 'art27',
+    img: 'art03',
     title: '我真的受傷了',
     price: 700,
     description: '唯一想擁有的人，唯一不可以擁有的'
